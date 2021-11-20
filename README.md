@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on Front-End
 - 🌱 I’m currently learning React js, JavaScript and ReactBootstrap
 - 👯 I’m looking to collaborate with any JavaScript, Java or PHP Project
-- 🤔 I’m looking for help with React Hooks
 
  <div>
   <a href="https://github.com/CelsoDeCarvalho">
