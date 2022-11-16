@@ -1,8 +1,8 @@
 ###  Hello there👋, I'm Celso 
 
 
-- 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning React js, JavaScript and ReactBootstrap
+- 🔭 I’m currently working on Front-End with React js and Spring boot on Back-End 
+- 🌱 I’m currently learning ui/ux design and spring security
 - 👯 I’m looking to collaborate with any JavaScript, Java or PHP Project
 
  <div>
@@ -10,6 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CelsoDeCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelsoDeCarvalho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=CelsoDeCarvalho&theme=dracula)](https://git.io/streak-stats)
   
   <div style="display: inline_block"><br>
    <img align="center" alt="Celso-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
