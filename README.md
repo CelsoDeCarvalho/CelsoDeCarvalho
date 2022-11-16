@@ -23,13 +23,10 @@
   <img align="center" alt="Celso-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
   
-  <br/>
-  
-  <div style="display:flex;"> 
-        <a href="https://www.youtube.com/channel/UCCJxgXrV3x_lc4Gw5ogynew" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-   badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-  <a href = "mailto:celsomomade361@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-</div>
+ ### Coding Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+ 
+ [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CelsoDeCarvalho&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
