@@ -1,9 +1,9 @@
 ###  Hello there👋, I'm Celso 
 
 
-- 🔭 I’m currently working on Front-End with React js and Spring boot on Back-End 
-- 🌱 I’m currently learning ui/ux design and spring security
-- 👯 I’m looking to collaborate with any JavaScript, Java or PHP Project
+#### - 🔭 I’m currently working on Front-End with React js and Spring boot on Back-End 
+#### - 🌱 I’m currently learning ui/ux design and spring security
+#### - 👯 I’m looking to collaborate with any JavaScript, Java or PHP Project
 
 ---
 
