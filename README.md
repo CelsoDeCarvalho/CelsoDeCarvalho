@@ -6,7 +6,8 @@
 #### - 👯 I’m looking to collaborate with any JavaScript, Java or PHP Project
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=CelsoDeCarvalho)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CelsoDeCarvalho&title=Commits)](https://github.com/ryo-ma/github-profile-trophy)
+
 
  <p align="center">
   <a href="https://github.com/CelsoDeCarvalho">
