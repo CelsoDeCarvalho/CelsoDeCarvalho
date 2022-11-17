@@ -6,8 +6,6 @@
 
 #### - 🔭 I’m currently working with React js and Spring boot 
 #### - 🌱 I’m currently learning ui/ux design and spring security
-#### - 👯 I’m looking to collaborate with JavaScript and Java Project
-
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CelsoDeCarvalho&title=Commits)](https://github.com/ryo-ma/github-profile-trophy)  
