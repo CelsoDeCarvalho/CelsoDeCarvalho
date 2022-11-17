@@ -24,6 +24,18 @@
  [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CelsoDeCarvalho&bg_color=111111&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <!--START_SECTION:waka-->
+
+```text
+From: 15 November 2022 - To: 16 November 2022
+
+Total Time: 37 mins
+
+JavaScript   28 mins         >>>>>>>>>>>>>>>>>>>------   76.73 %
+JSON         4 mins          >>>----------------------   12.86 %
+Git Config   3 mins          >>>----------------------   10.06 %
+Other        0 secs          -------------------------   00.21 %
+```
+
 <!--END_SECTION:waka-->
 
   <br/>
