@@ -1,7 +1,5 @@
 ###  Hello there👋, I'm Celso 
 
-![gojo](https://user-images.githubusercontent.com/64174170/202523607-be6a7fce-133c-4545-8a79-54b7b82817f6.gif)
-
 #### - 🔭 I’m currently working on Front-End with React js and Spring boot on Back-End 
 #### - 🌱 I’m currently learning ui/ux design and spring security
 #### - 👯 I’m looking to collaborate with any JavaScript, Java or PHP Project
@@ -39,13 +37,11 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-  <br/>
-  <div style="display: inline_block"><br>
-   <img align="center" alt="Celso-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Celso-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Celso-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Celso-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Celso-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Celso-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="Celso-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+<div> 
+  <a href="https://www.youtube.com/channel/UCCJxgXrV3x_lc4Gw5ogynew" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/celso-momade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/CelsoDeCarvalho/CelsoDeCarvalho/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
+
