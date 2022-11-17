@@ -1,5 +1,6 @@
 ###  Hello there👋, I'm Celso 
 
+![gojo](https://user-images.githubusercontent.com/64174170/202523607-be6a7fce-133c-4545-8a79-54b7b82817f6.gif)
 
 #### - 🔭 I’m currently working on Front-End with React js and Spring boot on Back-End 
 #### - 🌱 I’m currently learning ui/ux design and spring security
