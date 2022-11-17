@@ -19,11 +19,12 @@
   <p align="left">
     <a href="https://github.com/CelsoDeCarvalho"><img width=55% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CelsoDeCarvalho&theme=dracula"/></a>
    </p>
- 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+   
  
  [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CelsoDeCarvalho&bg_color=111111&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
   <br/>
   <div style="display: inline_block"><br>
