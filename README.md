@@ -1,6 +1,7 @@
-<a target="_blank" align="center">
+<div target="_blank" align="center">
   <img align="right" top="500" height="400" width="400" alt="GIF" src="https://user-images.githubusercontent.com/64174170/202542933-bb6f3d82-6a33-4d6c-9e6a-433f477e5ffc.png">
-</a>
+  <br/>
+</div>
 
 ###  Hello there👋, I'm Celso 
 
@@ -11,10 +12,9 @@
 <div id="badges"  align="left">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Do+you+want+to+code+with+me?)](https://git.io/typing-svg)
-    
   </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CelsoDeCarvalho&title=Commits)](https://github.com/ryo-ma/github-profile-trophy)  
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=CelsoDeCarvalho&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
 
 
  <p align="left">
