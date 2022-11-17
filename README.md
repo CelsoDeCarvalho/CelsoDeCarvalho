@@ -1,8 +1,12 @@
+<a target="_blank" align="center">
+  <img align="right" top="500" height="400" width="400" alt="GIF" src="https://user-images.githubusercontent.com/64174170/202542933-bb6f3d82-6a33-4d6c-9e6a-433f477e5ffc.png">
+</a>
+
 ###  Hello there👋, I'm Celso 
 
-#### - 🔭 I’m currently working on Front-End with React js and Spring boot on Back-End 
+#### - 🔭 I’m currently working with React js and Spring boot 
 #### - 🌱 I’m currently learning ui/ux design and spring security
-#### - 👯 I’m looking to collaborate with any JavaScript, Java or PHP Project
+#### - 👯 I’m looking to collaborate with JavaScript and Java Project
 
 ---
 
