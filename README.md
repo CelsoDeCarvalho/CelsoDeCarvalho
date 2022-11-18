@@ -5,8 +5,8 @@
 
 ## Hello there👋, I'm Celso 
 
-### 🔭 I’m currently working with React js and Spring boot 
-### 🌱 I’m currently learning ui/ux design and spring security
+#### 🔭 I’m currently working with React js and Spring boot 
+#### 🌱 I’m currently learning ui/ux design and spring security
 ---
 
 <div id="badges"  align="left">
