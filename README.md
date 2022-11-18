@@ -15,7 +15,7 @@
   </div>   
     
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=CelsoDeCarvalho&theme=flat&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=CelsoDeCarvalho&theme=dracula&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
 
  <p align="left">
   <a href="https://github.com/CelsoDeCarvalho">
