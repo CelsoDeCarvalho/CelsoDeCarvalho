@@ -54,4 +54,4 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
   ![Snake animation](https://github.com/CelsoDeCarvalho/CelsoDeCarvalho/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
+ 
