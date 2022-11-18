@@ -15,16 +15,16 @@
   </div>   
     
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=CelsoDeCarvalho&theme=dracula&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=CelsoDeCarvalho&theme=merko&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
 
  <p align="left">
   <a href="https://github.com/CelsoDeCarvalho">
-  <img width=55% src="https://github-readme-stats.vercel.app/api?username=CelsoDeCarvalho&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img  width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelsoDeCarvalho&layout=compact&langs_count=7&theme=synthwave"/>
+  <img width=55% src="https://github-readme-stats.vercel.app/api?username=CelsoDeCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelsoDeCarvalho&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
   <p align="left">
-    <a href="https://github.com/CelsoDeCarvalho"><img width=55% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CelsoDeCarvalho&theme=synthwave"/></a>
+    <a href="https://github.com/CelsoDeCarvalho"><img width=55% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CelsoDeCarvalho&theme=dracula"/></a>
    </p>
    
  
