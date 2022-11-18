@@ -15,16 +15,16 @@
   </div>   
     
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=CelsoDeCarvalho&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=CelsoDeCarvalho&theme=flat&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
 
  <p align="left">
   <a href="https://github.com/CelsoDeCarvalho">
-  <img width=55% src="https://github-readme-stats.vercel.app/api?username=CelsoDeCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img  width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelsoDeCarvalho&layout=compact&langs_count=7&theme=dracula"/>
+  <img width=55% src="https://github-readme-stats.vercel.app/api?username=CelsoDeCarvalho&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelsoDeCarvalho&layout=compact&langs_count=7&theme=synthwave"/>
 </p>
 
   <p align="left">
-    <a href="https://github.com/CelsoDeCarvalho"><img width=55% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CelsoDeCarvalho&theme=dracula"/></a>
+    <a href="https://github.com/CelsoDeCarvalho"><img width=55% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CelsoDeCarvalho&theme=synthwave"/></a>
    </p>
    
  
@@ -51,6 +51,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
   <a href="https://www.youtube.com/channel/UCCJxgXrV3x_lc4Gw5ogynew" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/celso-momade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  
   ![Snake animation](https://github.com/CelsoDeCarvalho/CelsoDeCarvalho/blob/output/github-contribution-grid-snake.svg)
  
 </div>
