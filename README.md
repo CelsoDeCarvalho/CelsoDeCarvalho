@@ -1,6 +1,6 @@
 <div target="_blank" align="center">
-  <img align="right" top="500" height="360" width="360" alt="GIF" src="https://user-images.githubusercontent.com/64174170/202542933-bb6f3d82-6a33-4d6c-9e6a-433f477e5ffc.png">
-  <br/>
+<!--   <img align="right" top="500" height="360" width="360" alt="GIF" src="https://user-images.githubusercontent.com/64174170/202542933-bb6f3d82-6a33-4d6c-9e6a-433f477e5ffc.png">
+  <br/> -->
 </div>
 
 ## Hello there👋, I'm Celso  ![Views](https://komarev.com/ghpvc/?username=CelsoDeCarvalho)
