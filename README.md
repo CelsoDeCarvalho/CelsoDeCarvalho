@@ -16,7 +16,7 @@
   </div>   
     
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=CelsoDeCarvalho&theme=merko&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=CelsoDeCarvalho&theme=merko&margin-w=10&margin-h=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)  
 
  <p align="left">
   <a href="https://github.com/CelsoDeCarvalho">
@@ -30,22 +30,6 @@
    
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CelsoDeCarvalho&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
- <!--START_SECTION:waka-->
-
-```txt
-From: 15 November 2022 - To: 05 August 2023
-
-Total Time: 51 hrs 28 mins
-
-JavaScript       47 hrs 52 mins  ███████████████████████▒░   93.01 %
-CSS              1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-JSON             37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-HTML             28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Java             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-```
-
-<!--END_SECTION:waka-->
 
 <div> 
   <a href="https://www.youtube.com/channel/UCCJxgXrV3x_lc4Gw5ogynew" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
