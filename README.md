@@ -6,15 +6,9 @@
 ## Hello there👋, I'm Celso  ![Views](https://komarev.com/ghpvc/?username=CelsoDeCarvalho)
 
 
-#### 🔭 I’m currently working with React js and Spring boot 
-#### 🌱 I’m currently learning ui/ux design and spring security
----
-
-<div id="badges"  align="left">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Do+you+want+to+code+with+me?)](https://git.io/typing-svg)
-  </div>   
-    
+### 🔭 I’m currently working with React js and Spring boot 
+### 🌱 I’m currently learning ui/ux design and spring security
+--- 
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=CelsoDeCarvalho&theme=merko&margin-w=10&margin-h=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)  
 
