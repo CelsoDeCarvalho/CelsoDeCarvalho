@@ -6,7 +6,7 @@
 ## Hello there👋, I'm Celso  ![Views](https://komarev.com/ghpvc/?username=CelsoDeCarvalho)
 
 
-### 🔭 I’m currently working with React js and Spring boot 
+### 🔭 I’m currently working with React, Node and Spring boot 
 ### 🌱 I’m currently learning ui/ux design and spring security
 --- 
 
