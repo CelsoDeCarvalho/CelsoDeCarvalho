@@ -21,14 +21,14 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=CelsoDeCarvalho&theme=merko&margin-w=10&margin-h=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)  
 
- <p>
-  <img width=100% src="https://github-readme-stats.vercel.app/api?username=CelsoDeCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/CelsoDeCarvalho"><img width=100% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CelsoDeCarvalho&theme=dracula"/></a>
-</p>
+<div>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=CelsoDeCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelsoDeCarvalho&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top Languages" />
+</div>
 
-  <p align="left">
-  <img  width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelsoDeCarvalho&layout=compact&langs_count=7&theme=dracula"/>
-   </p>
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CelsoDeCarvalho&theme=dracula&hide_border=true"/>
+</div>
    
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CelsoDeCarvalho&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
